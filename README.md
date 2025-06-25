@@ -49,7 +49,7 @@ git clone https://github.com/your-username/StudentRecordSystem.git
 javac StudentRecordSystem.java
 java StudentRecordSystem
 
-exit
+```
 
 
 
