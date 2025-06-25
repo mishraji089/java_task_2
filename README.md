@@ -51,6 +51,20 @@ java StudentRecordSystem
 
 ```
 
+=== Student Record Management ===
+1. Add Student
+2. View Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice: 1
+
+Enter ID: 101
+Enter Name: John Doe
+Enter Marks: 89.5
+Student added successfully.
+
+
 
 
 
