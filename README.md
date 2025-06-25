@@ -23,6 +23,10 @@ A simple **Command Line Interface (CLI)** based CRUD application written in **Ja
 ---
 
 ## 📂 File Structure
+StudentRecordSystem/
+│
+├── StudentRecordSystem.java # Main Java program with all logic
+├── README.md # Project description and usage guide
 
 
 ---
