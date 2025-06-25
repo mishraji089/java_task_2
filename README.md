@@ -48,8 +48,8 @@ Download the `.java` file or clone the repository:
 
 ```bash
 git clone https://github.com/your-username/StudentRecordSystem.git
-javac StudentRecordSystem.java
-java StudentRecordSystem
+javac RecordManager.java
+java RecordManager
 
 ```
 
